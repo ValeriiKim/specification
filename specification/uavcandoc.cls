@@ -1,16 +1,13 @@
-%
-% Copyright (c) 2018-2019  UAVCAN Development Team  <info@zubax.com>
-%
-% Author: Pavel Kirienko <pavel.kirienko@zubax.com>
-%
+% Copyright (c) 2018  UAVCAN Consortium <uavcan.org>
+% Author: Pavel Kirienko <pavel@uavcan.org>
 
 \NeedsTeXFormat{LaTeX2e}
 
-\ProvidesClass{uavcandoc}[2018/06/29 UAVCAN document class]
+\ProvidesClass{uavcandoc}[2021/07/17 UAVCAN document class]
 
 \LoadClass[a4paper,onecolumn,openany]{book}
 
-\author{UAVCAN Development Team}
+\author{UAVCAN Consortium}
 
 \RequirePackage[pagestyles]{titlesec}
 \RequirePackage{titletoc}
